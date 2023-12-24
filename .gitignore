@@ -1,0 +1,8 @@
+#ignore all text files
+*.txt
+
+#ignore java eclipse stuff
+.classpath
+.project
+.settings
+bin/
